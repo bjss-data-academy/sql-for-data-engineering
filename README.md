@@ -42,9 +42,6 @@ Complete the 'Try it Yourself' exercises:
 - [Null Functions](https://www.w3schools.com/sql/sql_isnull.asp)
 - [Operators](https://www.w3schools.com/sql/sql_operators.asp)
 
-  # End
-  We're done.
-
   # Further Reading
   - [SQL for Data Analysis](https://learning.oreilly.com/library/view/sql-for-data/9781492088776/)
  
