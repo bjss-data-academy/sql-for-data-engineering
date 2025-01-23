@@ -1,17 +1,19 @@
 # SQL for Data Engineering
 SQL is always worth learning, but doubly so for Data Engineering.
 
+We'll need some more advanced SQL for this course.
+
 # Prerequisites
 - [Database and SQL fundamentals](https://github.com/bjssacademy/fundamentals-sql/blob/main/readme.md)
 
-## Sqlbotl Intermediate Sessions (intermediate)
+## Sqlbolt Intermediate Sessions (intermediate)
 Complete:
 - [Using subqueries](https://sqlbolt.com/topic/subqueries)
 - [Working with sets](https://sqlbolt.com/topic/set_operations)
 
 - Feel free to use [sqlbolt](https://sqlbolt.com/lesson/introduction) to practice SQL fundamentals
 
-## w3schools 
+## w3schools SQL topics
 Complete the 'Try it Yourself' exercises:
 - [Aggregates](https://www.w3schools.com/sql/sql_aggregate_functions.asp)
 - [Min, Max](https://www.w3schools.com/sql/sql_min_max.asp)
